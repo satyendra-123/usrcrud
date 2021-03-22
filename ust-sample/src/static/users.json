@@ -1,0 +1,36 @@
+[
+    {
+    "id": 1,
+    "name": "satyendra",
+    "email": "s.satyendra70@gmail.com",
+    "phoneNumber": 8971564768,
+    "gender": "male"
+},
+
+{
+    "id": 1,
+    "name": "aasha",
+    "email": "aasha70@gmail.com",
+    "phoneNumber": 8971564768,
+    "gender": "female"
+}
+,
+{
+    "id": 1,
+    "name": "satyendra",
+    "email": "s.satyendra70@gmail.com",
+    "phoneNumber": 8971564768,
+    "gender": "male"
+},
+{
+    "id": 1,
+    "name": "kaushiki",
+    "email": "kaushiki70@gmail.com",
+    "phoneNumber": 8971564768,
+    "gender": "female"
+}
+
+
+
+
+]

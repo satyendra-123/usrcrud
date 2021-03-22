@@ -1,0 +1,15 @@
+.Header{
+    margin-top: 40px;
+}
+
+.Avatar {
+    padding: 3px;
+    vertical-align: middle;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+
+  .inner{
+    display: inline-block; 
+  }
